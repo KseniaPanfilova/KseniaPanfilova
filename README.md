@@ -6,7 +6,7 @@
 
 🎓 I accomplished Software Tsting course in December 2021. </br>
 ⚒ Then I was been taking part in an internship in A1QA company from June 2022 to September 2022. In addition, I worked part-time as an outsource tester. </br>
-👨🏻‍💻  I'm currently continueing to learn Software Testing and different usefull for tester tools for myself. Moreover, I'm improving my English skills.
+👨🏻‍💻 Currently, I continue to study software testing and various tools useful for a tester on my own. Moreover, I improve my knowledge of the English language.
 
 **Skills**
 
