@@ -27,7 +27,8 @@
 - DevTools;
 - Postman;
 - Fiddler;
-- Git.
+- Git;
+- VirtualBox.
 
 **Languages**
 
