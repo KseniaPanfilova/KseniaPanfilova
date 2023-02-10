@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am an aspiring **quality assurance** specialist and I am looking for a **job**!
+### I am an aspiring **quality assurance** specialist and I am great motivated to become a **specialist** in this sphere!
 
 #### About me
 
