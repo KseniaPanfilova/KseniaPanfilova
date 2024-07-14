@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### I am an aspiring **quality assurance** engineer and I am great motivated to become a  real **specialist** in this sphere!
+### I am a **quality assurance** engineer with 1.5+ years of experience.
 
 #### About me
 
 🎓 I accomplished Software Testing course in December 2021. </br>
 ⚒ Then I was been taking part in an internship in A1QA company from June 2022 to September 2022. In addition, I worked part-time as an outsource tester. </br>
-👨🏻‍💻 Currently, I am working as QA engineer in Texode Technologies (Falcongaze SecureTower project) and continue to study software testing and various tools useful for a tester on my own. Moreover, I improve my knowledge of the English language.
+👨🏻‍💻 Currently, I am working as a QA engineer in Texode Technologies (Falcongaze SecureTower project) and continue to study software testing and various tools useful for a tester on my own. Moreover, I improve my knowledge of the English language.
 
 **Skills**
 
