@@ -6,7 +6,7 @@
 
 🎓 I accomplished Software Testing course in December 2021. </br>
 ⚒ Then I was been taking part in an internship in A1QA company from June 2022 to September 2022. In addition, I worked part-time as an outsource tester. </br>
-👨🏻‍💻 Currently, I am working as a QA engineer in Texode Technologies (Falcongaze SecureTower project) and continue to study software testing and various tools useful for a tester on my own. Moreover, I improve my knowledge of the English language.
+👨🏻‍💻 Currently I am working as a manual quality assurance engineer at Texode Technologies on the Falcongaze SecureTower project (https://falcongaze.com) and developing in the direction of Fullstaсk QA.
 
 **Skills**
 
