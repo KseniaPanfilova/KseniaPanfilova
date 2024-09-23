@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am a **quality assurance** engineer with 1.5+ years of experience.
+### I am a **manual** quality assurance engineer with 2+ years of experience.
 
 #### About me
 
@@ -10,31 +10,32 @@
 
 **Skills**
 
-- Test documentation (Check-list, test-case, bug report, quality report;
+- Test documentation (check-list, test-case, bug report);
 - SDLC understanding;
 - Defect life cycle understanding;
 - Client-server model understanding;
 - TCP/IP model understanding;
 - Knowledge of basic HTTP methods, structures of requst and respons;
-- Knowledge of basic API (REST, SOAP, GraphQL);
-- Basic knowlede of SQL, HTML, CSS, JavaScript;
+- REST API understanding;
+- Basic knowlede of SQL;
 - Knowledge of basic Terminal and CMD commands.
 
 **Tools**
 
-- Jira ;
+- Jira;
 - TestRail;
 - DevTools;
 - Postman;
 - Fiddler;
 - Git;
-- VirtualBox.
+- jMeter
+- VmWare, VirtualBox.
 
 **Languages**
 
 - Russian - C2;
 - Belarussian - B2;
-- English - B1;
+- English - А2;
 - German - A1.
 
 ### Contact with me
