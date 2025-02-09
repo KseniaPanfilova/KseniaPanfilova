@@ -26,18 +26,14 @@
 - TestRail;
 - DevTools;
 - Postman;
-- Fiddler;
-- Git;
-- jMeter
-- VmWare, VirtualBox.
+- Fiddler.
 
 **Languages**
 
 - Russian - C2;
 - Belarussian - B2;
-- English - А2;
-- German - A1.
-
+- English - А1.
+- 
 ### Contact with me
 
 Email - kseniapanfilova@gmail.com </br>
